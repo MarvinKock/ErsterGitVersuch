@@ -13,6 +13,7 @@ namespace Erster_Git_Versuch
 
             Console.WriteLine("Hello Amelie");
             Console.WriteLine("Hello World");
+            Console.WriteLine("Dritte Zeile");
         }
     }
 }
